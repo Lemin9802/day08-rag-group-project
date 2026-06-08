@@ -1,6 +1,32 @@
-__pycache__/
-*.pyc
-.venv/
+# Environment variables
 .env
-.DS_Store
+.env.*
+
+# Virtual environments
+.venv/
+.venv_chainlit/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
 .ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Chainlit local cache/config runtime
+.chainlit/.files/
+.chainlit/translations/

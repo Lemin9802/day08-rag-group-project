@@ -1,0 +1,722 @@
+[
+  {
+    "config": "A_hybrid",
+    "id": "nhi_q001",
+    "question": "Nghị định 28/2026 quy định gì về danh mục chất ma túy và tiền chất?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "nhi_q002",
+    "question": "Danh mục IV trong Nghị định 28/2026/NĐ-CP nói về nội dung gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "nhi_q003",
+    "question": "Tiêu chí xác định địa bàn cấp xã trọng điểm phức tạp về ma túy là gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "nhi_q004",
+    "question": "Những nghệ sĩ nào trong dữ liệu liên quan tới ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_article_01.md",
+      "nghia_article_02.md",
+      "nghia_article_01.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_article_05.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "nhi_q005",
+    "question": "Bài báo về Bình Gold nói gì về việc dương tính với ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_article_02.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_bo-luat-hinh-su-2015.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "huy_q001",
+    "question": "Luật Phòng, chống ma túy 2021 quy định về nội dung gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_bo-luat-hinh-su-2015.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "huy_q002",
+    "question": "Bộ luật Hình sự 2015 quy định các tội phạm về ma túy như thế nào?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_bo-luat-hinh-su-2015.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_article_01.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "huy_q003",
+    "question": "Bài báo về Hữu Tín nêu sự việc gì?",
+    "context_recall": 0.0,
+    "retrieved_sources": [
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_article_02.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nhi_article_04.md",
+      "nhi_article_04.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "huy_q004",
+    "question": "Luật Phòng, chống ma túy 2021 quy định gì về quản lý người sử dụng trái phép chất ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_article_02.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "huy_q005",
+    "question": "Bộ nào quản lý tiền chất sử dụng trong lĩnh vực công nghiệp?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_article_05.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "nghia_q001",
+    "question": "Nghị định 105/2021 quy định chi tiết nội dung gì của Luật Phòng, chống ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "nghia_q002",
+    "question": "Bài báo về Chi Dân, An Tây và Nguyễn Đỗ Trúc Phương nêu thông tin gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_article_01.md",
+      "nghia_article_01.md",
+      "nghia_article_01.md",
+      "nhi_article_05.md",
+      "nhi_article_05.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "nghia_q003",
+    "question": "Bài báo về DJ Thái Hoàng nói gì về tàng trữ ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_article_03.md",
+      "nhi_article_04.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_article_01.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_article_05.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_bo-luat-hinh-su-2015.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "nghia_q004",
+    "question": "Bài báo về nữ DJ trùm ma túy nước vui ở TP HCM nêu sự việc gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_article_05.md",
+      "nghia_article_05.md",
+      "nhi_article_05.md",
+      "nghia_article_03.md",
+      "nghia_article_05.md",
+      "nhi_article_04.md",
+      "nghia_article_01.md",
+      "nghia_article_01.md"
+    ]
+  },
+  {
+    "config": "A_hybrid",
+    "id": "nghia_q005",
+    "question": "Cơ sở cai nghiện bắt buộc được nhắc đến như thế nào?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nhi_q001",
+    "question": "Nghị định 28/2026 quy định gì về danh mục chất ma túy và tiền chất?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nhi_q002",
+    "question": "Danh mục IV trong Nghị định 28/2026/NĐ-CP nói về nội dung gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nhi_q003",
+    "question": "Tiêu chí xác định địa bàn cấp xã trọng điểm phức tạp về ma túy là gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nhi_q004",
+    "question": "Những nghệ sĩ nào trong dữ liệu liên quan tới ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_article_01.md",
+      "nhi_article_01.md",
+      "nghia_article_01.md",
+      "nhi_article_01.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_article_02.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nhi_q005",
+    "question": "Bài báo về Bình Gold nói gì về việc dương tính với ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_article_02.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "huy_q001",
+    "question": "Luật Phòng, chống ma túy 2021 quy định về nội dung gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "huy_q002",
+    "question": "Bộ luật Hình sự 2015 quy định các tội phạm về ma túy như thế nào?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_bo-luat-hinh-su-2015.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "nhi_article_01.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "huy_q003",
+    "question": "Bài báo về Hữu Tín nêu sự việc gì?",
+    "context_recall": 0.0,
+    "retrieved_sources": [
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_article_02.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nhi_article_04.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nhi_article_04.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "huy_q004",
+    "question": "Luật Phòng, chống ma túy 2021 quy định gì về quản lý người sử dụng trái phép chất ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "huy_q005",
+    "question": "Bộ nào quản lý tiền chất sử dụng trong lĩnh vực công nghiệp?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nghia_q001",
+    "question": "Nghị định 105/2021 quy định chi tiết nội dung gì của Luật Phòng, chống ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nghia_q002",
+    "question": "Bài báo về Chi Dân, An Tây và Nguyễn Đỗ Trúc Phương nêu thông tin gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_article_01.md",
+      "nghia_article_01.md",
+      "nghia_article_01.md",
+      "nghia_article_01.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_article_05.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nghia_q003",
+    "question": "Bài báo về DJ Thái Hoàng nói gì về tàng trữ ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_bo-luat-hinh-su-2015.md",
+      "nhi_article_04.md",
+      "nghia_article_03.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_article_01.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_article_05.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nghia_q004",
+    "question": "Bài báo về nữ DJ trùm ma túy nước vui ở TP HCM nêu sự việc gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_article_05.md",
+      "nghia_article_05.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "nghia_article_01.md",
+      "nhi_article_04.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nhi_article_05.md"
+    ]
+  },
+  {
+    "config": "B_lexical",
+    "id": "nghia_q005",
+    "question": "Cơ sở cai nghiện bắt buộc được nhắc đến như thế nào?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nhi_q001",
+    "question": "Nghị định 28/2026 quy định gì về danh mục chất ma túy và tiền chất?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nhi_q002",
+    "question": "Danh mục IV trong Nghị định 28/2026/NĐ-CP nói về nội dung gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nhi_q003",
+    "question": "Tiêu chí xác định địa bàn cấp xã trọng điểm phức tạp về ma túy là gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nhi_q004",
+    "question": "Những nghệ sĩ nào trong dữ liệu liên quan tới ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_article_01.md",
+      "nghia_article_01.md",
+      "nhi_article_01.md",
+      "nhi_article_01.md",
+      "nghia_article_01.md",
+      "nhi_article_01.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nhi_q005",
+    "question": "Bài báo về Bình Gold nói gì về việc dương tính với ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "nghia_article_05.md",
+      "nhi_article_02.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "huy_q001",
+    "question": "Luật Phòng, chống ma túy 2021 quy định về nội dung gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "huy_q002",
+    "question": "Bộ luật Hình sự 2015 quy định các tội phạm về ma túy như thế nào?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_bo-luat-hinh-su-2015.md",
+      "nhi_article_01.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_article_05.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "huy_q003",
+    "question": "Bài báo về Hữu Tín nêu sự việc gì?",
+    "context_recall": 0.0,
+    "retrieved_sources": [
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_article_02.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "huy_q004",
+    "question": "Luật Phòng, chống ma túy 2021 quy định gì về quản lý người sử dụng trái phép chất ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "huy_q005",
+    "question": "Bộ nào quản lý tiền chất sử dụng trong lĩnh vực công nghiệp?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nghia_q001",
+    "question": "Nghị định 105/2021 quy định chi tiết nội dung gì của Luật Phòng, chống ma túy?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nghia_nghi-dinh-105-2021.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nghia_q002",
+    "question": "Bài báo về Chi Dân, An Tây và Nguyễn Đỗ Trúc Phương nêu thông tin gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_article_01.md",
+      "nghia_article_01.md",
+      "nghia_article_01.md",
+      "nghia_article_01.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_nghi-dinh-105-2021.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nghia_q003",
+    "question": "Bài báo về DJ Thái Hoàng nói gì về tàng trữ ma túy?",
+    "context_recall": 0.0,
+    "retrieved_sources": [
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md",
+      "nghia_article_01.md",
+      "nghia_article_05.md",
+      "nghia_article_05.md",
+      "nhi_article_04.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_bo-luat-hinh-su-2015.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nghia_q004",
+    "question": "Bài báo về nữ DJ trùm ma túy nước vui ở TP HCM nêu sự việc gì?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nghia_article_05.md",
+      "nghia_article_05.md",
+      "nghia_article_05.md",
+      "nhi_article_04.md",
+      "nhi_article_05.md",
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "huy_tuoitre.vn_diß╗àn-vi├¬n-hß╗»u-t├¡n-l├únh-7-n─âm-6-th├íng-t├╣.md"
+    ]
+  },
+  {
+    "config": "C_vectorless",
+    "id": "nghia_q005",
+    "question": "Cơ sở cai nghiện bắt buộc được nhắc đến như thế nào?",
+    "context_recall": 1.0,
+    "retrieved_sources": [
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md"
+    ]
+  }
+]

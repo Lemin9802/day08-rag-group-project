@@ -1,0 +1,152 @@
+[
+  {
+    "id": "nhi_q001",
+    "question": "Nghị định 28/2026 quy định gì về danh mục chất ma túy và tiền chất?",
+    "expected_answer": "Nghị định 28/2026/NĐ-CP quy định các danh mục chất ma túy và tiền chất, ban hành kèm phụ lục các danh mục chất ma túy và tiền chất.",
+    "expected_context": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md"
+    ],
+    "category": "legal",
+    "contributed_by": "Nhi"
+  },
+  {
+    "id": "nhi_q002",
+    "question": "Danh mục IV trong Nghị định 28/2026/NĐ-CP nói về nội dung gì?",
+    "expected_answer": "Danh mục IV quy định về các tiền chất, bao gồm các nhóm tiền chất liên quan đến cấu trúc hoặc quá trình sản xuất chất ma túy.",
+    "expected_context": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md"
+    ],
+    "category": "legal",
+    "contributed_by": "Nhi"
+  },
+  {
+    "id": "nhi_q003",
+    "question": "Tiêu chí xác định địa bàn cấp xã trọng điểm phức tạp về ma túy là gì?",
+    "expected_answer": "Địa bàn cấp xã trọng điểm phức tạp về ma túy được xác định dựa trên các tiêu chí như tỷ lệ người nghiện, số điểm tổ chức hoặc chứa chấp sử dụng ma túy, tỷ lệ đối tượng phạm tội về ma túy và các yếu tố phức tạp khác.",
+    "expected_context": [
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md"
+    ],
+    "category": "legal",
+    "contributed_by": "Nhi"
+  },
+  {
+    "id": "nhi_q004",
+    "question": "Những nghệ sĩ nào trong dữ liệu liên quan tới ma túy?",
+    "expected_answer": "Dữ liệu nhắc đến Long Nhật, Sơn Ngọc Minh, Miu Lê, Hữu Tín, Chi Dân, Bình Gold và một số người nổi tiếng khác trong các bài báo liên quan đến ma túy.",
+    "expected_context": [
+      "nhi_article_01.md"
+    ],
+    "category": "news",
+    "contributed_by": "Nhi"
+  },
+  {
+    "id": "nhi_q005",
+    "question": "Bài báo về Bình Gold nói gì về việc dương tính với ma túy?",
+    "expected_answer": "Bài báo về Bình Gold cho biết nam rapper bị kiểm tra và có kết quả dương tính với ma túy.",
+    "expected_context": [
+      "nhi_article_02.md"
+    ],
+    "category": "news",
+    "contributed_by": "Nhi"
+  },
+  {
+    "id": "huy_q001",
+    "question": "Luật Phòng, chống ma túy 2021 quy định về nội dung gì?",
+    "expected_answer": "Luật Phòng, chống ma túy 2021 quy định về phòng ngừa, ngăn chặn, đấu tranh với tệ nạn ma túy, quản lý người sử dụng trái phép chất ma túy, cai nghiện ma túy và trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng chống ma túy.",
+    "expected_context": [
+      "huy_luat-phong-chong-ma-tuy-2021.md"
+    ],
+    "category": "legal",
+    "contributed_by": "Huy"
+  },
+  {
+    "id": "huy_q002",
+    "question": "Bộ luật Hình sự 2015 quy định các tội phạm về ma túy như thế nào?",
+    "expected_answer": "Bộ luật Hình sự 2015 quy định nhiều tội phạm về ma túy như trồng cây chứa chất ma túy, sản xuất, mua bán, tàng trữ, vận chuyển, chiếm đoạt hoặc tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": [
+      "huy_bo-luat-hinh-su-2015.md"
+    ],
+    "category": "legal",
+    "contributed_by": "Huy"
+  },
+  {
+    "id": "huy_q003",
+    "question": "Bài báo về Hữu Tín nêu sự việc gì?",
+    "expected_answer": "Bài báo về Hữu Tín nêu sự việc diễn viên này liên quan đến sử dụng ma túy và bị xét xử hoặc nhận án tù.",
+    "expected_context": [
+      "huy_tuoitre.vn_diễn-viên-hữu-tín-lãnh-7-năm-6-tháng-tù.md"
+    ],
+    "category": "news",
+    "contributed_by": "Huy"
+  },
+  {
+    "id": "huy_q004",
+    "question": "Luật Phòng, chống ma túy 2021 quy định gì về quản lý người sử dụng trái phép chất ma túy?",
+    "expected_answer": "Luật Phòng, chống ma túy 2021 quy định về quản lý người sử dụng trái phép chất ma túy, bao gồm phát hiện, lập danh sách, tư vấn, giáo dục, hỗ trợ và trách nhiệm của cơ quan, gia đình, cộng đồng.",
+    "expected_context": [
+      "huy_luat-phong-chong-ma-tuy-2021.md"
+    ],
+    "category": "legal",
+    "contributed_by": "Huy"
+  },
+  {
+    "id": "huy_q005",
+    "question": "Bộ nào quản lý tiền chất sử dụng trong lĩnh vực công nghiệp?",
+    "expected_answer": "Bộ Công Thương có trách nhiệm quản lý nhà nước về các tiền chất sử dụng trong lĩnh vực công nghiệp.",
+    "expected_context": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md"
+    ],
+    "category": "legal",
+    "contributed_by": "Huy"
+  },
+  {
+    "id": "nghia_q001",
+    "question": "Nghị định 105/2021 quy định chi tiết nội dung gì của Luật Phòng, chống ma túy?",
+    "expected_answer": "Nghị định 105/2021/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy.",
+    "expected_context": [
+      "nghia_nghi-dinh-105-2021.md"
+    ],
+    "category": "legal",
+    "contributed_by": "Nghia"
+  },
+  {
+    "id": "nghia_q002",
+    "question": "Bài báo về Chi Dân, An Tây và Nguyễn Đỗ Trúc Phương nêu thông tin gì?",
+    "expected_answer": "Bài báo nêu Chi Dân, An Tây và Nguyễn Đỗ Trúc Phương liên quan đến vụ việc ma túy.",
+    "expected_context": [
+      "nghia_article_01.md"
+    ],
+    "category": "news",
+    "contributed_by": "Nghia"
+  },
+  {
+    "id": "nghia_q003",
+    "question": "Bài báo về DJ Thái Hoàng nói gì về tàng trữ ma túy?",
+    "expected_answer": "Bài báo nêu DJ Thái Hoàng bị bắt hoặc bị nhắc đến trong vụ việc tàng trữ ma túy.",
+    "expected_context": [
+      "nghia_article_03.md"
+    ],
+    "category": "news",
+    "contributed_by": "Nghia"
+  },
+  {
+    "id": "nghia_q004",
+    "question": "Bài báo về nữ DJ trùm ma túy nước vui ở TP HCM nêu sự việc gì?",
+    "expected_answer": "Bài báo nêu nữ DJ liên quan đến đường dây hoặc vụ án ma túy nước vui ở TP HCM và bị truy tố.",
+    "expected_context": [
+      "nghia_article_05.md"
+    ],
+    "category": "news",
+    "contributed_by": "Nghia"
+  },
+  {
+    "id": "nghia_q005",
+    "question": "Cơ sở cai nghiện bắt buộc được nhắc đến như thế nào?",
+    "expected_answer": "Cơ sở cai nghiện bắt buộc được nhắc đến trong bối cảnh lập hồ sơ đề nghị áp dụng biện pháp đưa người nghiện ma túy vào cơ sở cai nghiện bắt buộc và tổ chức thi hành quyết định liên quan.",
+    "expected_context": [
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md"
+    ],
+    "category": "legal",
+    "contributed_by": "Nghia"
+  }
+]

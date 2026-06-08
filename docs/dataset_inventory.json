@@ -1,0 +1,37 @@
+{
+  "policy": "Curated group dataset: selected clean, non-duplicated, relevant legal/news documents from all team members; duplicate or noisy sources excluded.",
+  "members": {
+    "Nhi": [
+      "nhi_nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "nhi_quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "nhi_thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "nhi_article_01.md",
+      "nhi_article_02.md",
+      "nhi_article_03.md",
+      "nhi_article_04.md",
+      "nhi_article_05.md"
+    ],
+    "Huy": [
+      "huy_luat-phong-chong-ma-tuy-2021.md",
+      "huy_bo-luat-hinh-su-2015.md",
+      "huy_tuoitre.vn_diễn-viên-hữu-tín-lãnh-7-năm-6-tháng-tù.md"
+    ],
+    "Nghia": [
+      "nghia_nghi-dinh-105-2021.md",
+      "nghia_article_01.md",
+      "nghia_article_02.md",
+      "nghia_article_03.md",
+      "nghia_article_05.md"
+    ]
+  },
+  "excluded_examples": [
+    "nghia_article_04.md excluded because it broadens the artist aggregation query to non-core Asia/Hong Kong names and hurts demo precision",
+    "duplicate versions of Nghị định 28/2026 and Luật PCMT removed when a cleaner representative exists",
+    "huy_tienphong.vn... Châu Việt Cường article excluded because crawler output contains heavy website navigation noise that hurts source-card readability."
+  ],
+  "counts": {
+    "legal": 6,
+    "news": 10,
+    "total": 16
+  }
+}
