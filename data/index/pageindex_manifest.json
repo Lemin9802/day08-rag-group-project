@@ -1,0 +1,57 @@
+{
+  "mode": "local_vectorless_fallback",
+  "pageindex_api_configured": true,
+  "gemini_api_configured": true,
+  "num_documents": 8,
+  "num_candidates": 134,
+  "documents": [
+    {
+      "source": "nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "path": "legal/nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-tien-chat.md",
+      "type": "legal",
+      "num_chars": 96459
+    },
+    {
+      "source": "quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "path": "legal/quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ma-tuy.md",
+      "type": "legal",
+      "num_chars": 9514
+    },
+    {
+      "source": "thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "path": "legal/thong-tu-lien-tich-03-2025-bca-vksndtc-tandtc-co-so-cai-nghien-bat-buoc.md",
+      "type": "legal",
+      "num_chars": 25081
+    },
+    {
+      "source": "article_01.md",
+      "path": "news/article_01.md",
+      "type": "news",
+      "num_chars": 2337
+    },
+    {
+      "source": "article_02.md",
+      "path": "news/article_02.md",
+      "type": "news",
+      "num_chars": 2842
+    },
+    {
+      "source": "article_03.md",
+      "path": "news/article_03.md",
+      "type": "news",
+      "num_chars": 1968
+    },
+    {
+      "source": "article_04.md",
+      "path": "news/article_04.md",
+      "type": "news",
+      "num_chars": 1886
+    },
+    {
+      "source": "article_05.md",
+      "path": "news/article_05.md",
+      "type": "news",
+      "num_chars": 2459
+    }
+  ]
+}

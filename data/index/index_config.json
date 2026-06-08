@@ -1,0 +1,9 @@
+{
+  "chunking_method": "recursive",
+  "chunk_size": 800,
+  "chunk_overlap": 120,
+  "embedding_model": "local-hashing-word-char-ngram-v1",
+  "embedding_dim": 512,
+  "vector_store": "local_json",
+  "num_chunks": 246
+}

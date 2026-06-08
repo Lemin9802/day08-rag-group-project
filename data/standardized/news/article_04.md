@@ -1,0 +1,37 @@
+# Xét xử diễn viên hài Hữu Tín
+
+**Source:** https://soha.vn/xet-xu-dien-vien-hai-huu-tin-2023042810420088.htm
+
+**Crawled:** 2026-06-08T12:02:26.174004
+
+**Source file:** article_04.json
+
+---
+
+# Xét xử diễn viên hài Hữu Tín
+
+**Source:** https://soha.vn/xet-xu-dien-vien-hai-huu-tin-2023042810420088.htm
+
+**Crawled:** 2026-06-08T12:02:26.173994
+
+---
+
+Diễn viên hài Hữu Tín và DJ Nguyễn Hoàng Phi bị bắt quả tang sử dụng và tàng trữ trái phép chất ma tuý tại căn hộ chung cư.
+
+Sáng 28-4, TAND quận 8 (TP HCM) mở phiên xét xử sơ thẩm Trần Hữu Tín (diễn viên hài Hữu Tín ; SN 1987) về tội "Tổ chức sử dụng trái phép chất ma túy" và Nguyễn Hoàng Phi (SN 1990; làm nghề DJ) về tội "Tàng trữ trái phép chất ma túy".
+
+Cáo trạng thể hiện Hữu Tín sống chung với người phụ nữ tên A. như vợ chồng tại căn hộ chung cư Giai Việt (phường 5, quận 8).
+
+Hữu Tín và Phi quen biết nhau từ trước. Giữa tháng 5-2022, Phi cùng bạn đi hát karaoke và được một người đàn ông cho ma túy.
+
+Diễn viên hài Hữu Tín thời điểm bị bắt quả tang
+
+Tối 10-6-2022, sau khi đi nhậu về, Hữu Tín, Phi cùng bạn bè lấy số ma túy mà Phi được cho, dùng còn dư ra sử dụng tại nơi ở của mình. Sáng 11-6-2022, cả nhóm bị Công an phường 5, quận 8 bắt quả tang.
+
+Tại thời điểm kiểm tra, có 6 người trong căn hộ, gồm Trần Hữu Tín, Nguyễn Hoàng Phi, Trần Thanh Tâm (34 tuổi), N.T.X.T (35 tuổi), Dương Thái Ngọc Huyền (18 tuổi) và A. (31 tuổi).
+
+Công an thu giữ 1 đĩa sành có chứa tinh thể màu trắng, 1 gói ni lông chứa 1 viên nén màu hồng, 1 gói ni lông chứa 10 viên nén màu xanh, 1 thẻ nhựa, tờ 50.000 đồng cuộn tròn, máy tính, 1 dàn máy DJ…
+
+Qua xét nghiệm, Hữu Tín cùng Tâm, Huyền dương tính với chất ma túy. Còn Phi, T. và A. âm tính với ma túy.
+
+Theo cơ quan chức năng, A. ngủ trong phòng khác nên không biết việc Hữu Tín và bạn bè sử dụng ma túy. Chủ căn hộ mà Hữu Tín thuê cũng không biết vụ việc này nên không bị xem xét trách nhiệm.
