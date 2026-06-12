@@ -1,0 +1,181 @@
+{
+  "name": "maithuylaw_dataset",
+  "scope": "vietnam_2025_plus_strict",
+  "description": "Neutral strict dataset for MaiThuyLaw AI. Includes Vietnam-related legal/policy/news content from 2025 onward only.",
+  "chunks": 230,
+  "documents": 28,
+  "source_type_counts": {
+    "legal": 188,
+    "news": 42
+  },
+  "docs": [
+    {
+      "doc_id": "legal-bo-luat-hinh-su-2015",
+      "title": "Bộ luật Hình sự 2015",
+      "source_type": "legal",
+      "chunks": 6
+    },
+    {
+      "doc_id": "legal-nghi-dinh-28-2026-nd-cp-danh-muc-chat-ma-tuy-va-tien-chat",
+      "title": "Nghị định 28/2026/NĐ-CP - Danh mục chất ma túy và tiền chất",
+      "source_type": "legal",
+      "chunks": 87
+    },
+    {
+      "doc_id": "legal-phap-lenh-08-2025-ubtvqh15-phan-sua-doi-thu-tuc-dua-nguoi-nghien-ma-tuy-12-18-tuoi-vao-co-",
+      "title": "Pháp lệnh 08/2025/UBTVQH15 Phần sửa đổi thủ tục đưa người nghiện ma túy 12 18 tuổi vào cơ sở cai nghiện bắt buộc",
+      "source_type": "legal",
+      "chunks": 25
+    },
+    {
+      "doc_id": "legal-quyet-dinh-28-2025-qd-ttg-dia-ban-trong-diem-ve-ma-tuy",
+      "title": "Quyết định 28/2025/QĐ-TTg - Địa bàn trọng điểm về ma túy",
+      "source_type": "legal",
+      "chunks": 12
+    },
+    {
+      "doc_id": "legal-thong-tu-34-2025-tt-bca-hoat-dong-hop-phap-lien-quan-den-ma-tuy-vi-muc-dich-quoc-phong-an-",
+      "title": "Thông tư 34/2025/TT BCA Hoạt động hợp pháp liên quan đến ma túy vì mục đích quốc phòng, an ninh",
+      "source_type": "legal",
+      "chunks": 26
+    },
+    {
+      "doc_id": "legal-thong-tu-lien-tich-03-2025-co-so-cai-nghien-bat-buoc",
+      "title": "Thông tư liên tịch 03/2025 - Cơ sở cai nghiện bắt buộc",
+      "source_type": "legal",
+      "chunks": 32
+    },
+    {
+      "doc_id": "news-4-an-tu-hinh-10-an-chung-than-cho-duong-day-mua-ban-ma-tuy-xuyen-quoc-gia",
+      "title": "4 án tử hình, 10 án chung thân cho đường dây mua bán ma túy xuyên quốc gia",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-bao-dong-tinh-trang-ma-tuy-xam-nhap-hoc-duong",
+      "title": "Báo động tình trạng ma túy xâm nhập học đường",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-bo-sung-che-tai-doi-voi-hanh-vi-lien-quan-den-thuoc-la-dien-tu-thuoc-la-nung-nong",
+      "title": "Bổ sung chế tài đối với hành vi liên quan đến thuốc lá điện tử, thuốc lá nung nóng",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-canh-bao-ve-hiem-hoa-khon-luong-tu-ma-tuy-nup-bong-thuoc-la-dien-tu",
+      "title": "Cảnh báo về hiểm họa khôn lường từ ma túy núp bóng thuốc lá điện tử",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-chinh-sach-vay-von-doi-voi-nguoi-sau-cai-nghien-ma-tuy",
+      "title": "Chính sách vay vốn đối với người sau cai nghiện ma túy",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-chung-mot-quyet-tam-hiem-hoa-ma-tuy-nhat-dinh-se-bi-loai-tru",
+      "title": "Chung một quyết tâm, hiểm họa ma túy nhất định sẽ bị loại trừ",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-cong-bo-thu-khen-cua-thu-tuong-chinh-phu-va-trao-thuong-thanh-tich-xuat-sac-trong-dau-tran",
+      "title": "Công bố Thư khen của Thủ tướng Chính phủ và trao thưởng thành tích xuất sắc trong đấu tranh chuyên án ma túy xuyên quốc gia",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-cong-tac-phong-chong-ma-tuy-tai-dia-phuong-duoc-thuc-hien-nghiem-tuc-khong-bi-ngat-quang",
+      "title": "Công tác phòng chống ma túy tại địa phương được thực hiện nghiêm túc, không bị ngắt quãng",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-dau-tranh-triet-pha-duong-day-ma-tuy-vung-nong-thon",
+      "title": "Đấu tranh, triệt phá đường dây ma túy vùng nông thôn",
+      "source_type": "news",
+      "chunks": 1
+    },
+    {
+      "doc_id": "news-gioi-thieu-cac-noi-dung-co-ban-cua-luat-phong-chong-ma-tuy-so-120-2025-qh15",
+      "title": "Giới thiệu các nội dung cơ bản của Luật Phòng, chống ma túy số 120/2025/QH15",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-ha-noi-chung-mot-quyet-tam-vi-cong-dong-khong-ma-tuy",
+      "title": "Hà Nội chung một quyết tâm vì cộng đồng không ma túy",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-hoi-chuong-canh-bao-tu-thu-mot-lan-cho-biet-ve-ma-tuy-trong-gioi-tre-hien-nay",
+      "title": "Hồi chuông cảnh báo từ thử một lần cho biết về ma túy trong giới trẻ hiện nay",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-khoi-to-13-bi-can-trong-chuyen-an-825p-thu-giu-777kg-ma-tuy-tong-hop",
+      "title": "Khởi tố 13 bị can trong chuyên án 825P thu giữ 777kg ma túy tổng hợp",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-khoi-to-tam-giam-71-doi-tuong-mua-ban-tang-tru-to-chuc-su-dung-trai-phep-chat-ma-tuy",
+      "title": "Khởi tố, tạm giam 71 đối tượng mua bán, tàng trữ, tổ chức sử dụng trái phép chất ma túy",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-kiem-soat-cac-hoat-dong-hop-phap-lien-quan-den-ma-tuy",
+      "title": "Kiểm soát các hoạt động hợp pháp liên quan đến ma túy",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-nang-cao-suc-khang-cua-toan-xa-hoi-doi-voi-hiem-hoa-ma-tuy",
+      "title": "Nâng cao sức kháng của toàn xã hội đối với hiểm họa ma túy",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-ngan-cung-giam-cau-giam-tac-hai-cua-ma-tuy",
+      "title": "Ngăn cung, giảm cầu, giảm tác hại của ma túy",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-phoi-hop-dau-tranh-phong-chong-ma-tuy-xuyen-bien-gioi",
+      "title": "Phối hợp đấu tranh phòng, chống ma túy xuyên biên giới",
+      "source_type": "news",
+      "chunks": 1
+    },
+    {
+      "doc_id": "news-phong-chong-ma-tuy-la-nhiem-vu-cua-ca-he-thong-chinh-tri-va-toan-xa-hoi-khong-duoc-khoan-t",
+      "title": "Phòng chống ma túy là nhiệm vụ của cả hệ thống chính trị và toàn xã hội, không được khoán trắng cho lực lượng Công an",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-triet-pha-5-duong-day-ma-tuy-hon-170-doi-tuong-sa-luoi",
+      "title": "Triệt phá 5 đường dây ma túy, hơn 170 đối tượng sa lưới",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-tuoi-tre-lan-toa-thong-diep-noi-khong-voi-ma-tuy",
+      "title": "Tuổi trẻ lan tỏa thông điệp nói không với ma túy",
+      "source_type": "news",
+      "chunks": 2
+    },
+    {
+      "doc_id": "news-xet-xu-53-bi-cao-lien-quan-su-dung-ma-tuy-tai-quan-karaoke-crown-o-can-tho",
+      "title": "Xét xử 53 bị cáo liên quan sử dụng ma túy tại quán karaoke Crown ở Cần Thơ",
+      "source_type": "news",
+      "chunks": 2
+    }
+  ]
+}

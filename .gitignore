@@ -30,3 +30,8 @@ Thumbs.db
 # Chainlit local cache/config runtime
 .chainlit/.files/
 .chainlit/translations/
+data/runtime/
+*.pyc
+data/MaiThuyLaw_clean_context_dataset/
+data/MaiThuyLaw_vietnam_2025plus_dataset/
+data/maithuylaw_dataset/data/index/neutral_dataset_report.json
